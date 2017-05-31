@@ -1,6 +1,10 @@
 ffsdgsdfhsdfshdofhds This is a change
+public int value;
+public string “”;
+
 if {
 a > 0;
 } then {
 Variable done;
+string = “It is done!”;
 }
